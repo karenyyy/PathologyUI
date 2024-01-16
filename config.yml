@@ -1,0 +1,31 @@
+backup_dir: /Users/karenyyy/Downloads/PathologyUI/backups
+backup_interval: 5
+log_dir: /Users/karenyyy/Downloads/PathologyUI/logs
+max_backups: 10
+radiobuttons_page1:
+- labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  title: Overall Quality
+radiobuttons_page2:
+- labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  title: Artifact 1
+- labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  title: Artifact 2
+- labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  title: Artifact 3
+task: General use
